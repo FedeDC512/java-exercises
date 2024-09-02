@@ -1,0 +1,4 @@
+Riga uno, ciao come va?
+Riga due, tutto bene!
+
+Riga quattro, la tre era vuota.
