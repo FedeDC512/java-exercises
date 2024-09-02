@@ -1,1 +1,2 @@
 # Esercizi di Programmazione in Java
+Esercizi svolti durante il corso di Linguaggi di Programmazione 2021-2022, tenuto dal Prof. [Gabriele Fici](https://www.unipa.it/persone/docenti/f/gabriele.fici), presso l'Università degli Studi di Palermo, Corso di Laurea in Informatica L-31. Ogni esercizio è strutturato in una cartella dedicata, contenente il codice sorgente e, dove necessario, i file di input/output.
